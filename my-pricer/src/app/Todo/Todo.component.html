@@ -1,0 +1,30 @@
+<div class="container mt-5">
+  <h2>Todos
+    <a class="float-right" [routerLink]="['/todo/add']">
+      <button type="button" class="btn btn-primary">Add</button>
+    </a>
+  </h2>
+  <table class="table table-bordered mt-5">
+    <thead>
+      <tr>
+        <!--<th>ID</th>-->
+        <th>Tag</th>
+        <th>Memo</th>
+        <th>Action</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let item of data; let i = index;">
+            <!--<td width="20">{{item.id}}</td>-->
+            <td>{{item.tag}}</td>
+            <td>{{item.memo}}</td>
+            <td width="250">
+                <button type="button" class="btn btn-danger mr-1" (click)="deleteTodo(item.id, i)">Delete</button>
+                <a [routerLink]="['/todo/edit/', item.id]">
+                  <button type="button" class="btn btn-primary">Edit</button>
+                </a>
+            </td>
+          </tr>
+    </tbody>
+  </table>
+</div>

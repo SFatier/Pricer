@@ -1,0 +1,29 @@
+<div class="row mt-5">
+  <div class="col-md-6 mx-auto">
+      <h2 class="text-center">Add Todo</h2>
+      <div class="card mt-3">
+          <div class="card-body">
+            <form [formGroup]="todoForm" (ngSubmit)="addTodo()">
+              <div class="form-group" style="visibility: hidden">
+                <label class="col-md-4">Id </label>
+                <input type="text" class="form-control" formControlName="Id" />
+              </div>
+              <div class="form-group">
+                  <label class="col-md-4">Tag </label>
+                  <input type="text" class="form-control" formControlName="Tag" />
+                </div>
+                <div class="form-group">
+                    <label class="col-md-4">Memo </label>
+                    <input type="text" class="form-control" formControlName="Memo" />
+                  </div>
+              <div class="form-group">
+                <button type="submit" class="btn btn-primary col-md-4" [disabled]="todoForm.invalid">Add</button>
+                <a [routerLink]="['/todo']">
+                  <button type="submit" class="btn btn-primary col-md-4 ml-1">Back</button>
+                </a>
+              </div>
+            </form>
+          </div>
+      </div>
+  </div>
+</div>
