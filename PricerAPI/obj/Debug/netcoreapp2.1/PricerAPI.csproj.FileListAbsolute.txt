@@ -1,0 +1,14 @@
+C:\Users\segolene.fatier\source\repos\ConsoleApp2\PricerAPI\bin\Debug\netcoreapp2.1\PricerAPI.deps.json
+C:\Users\segolene.fatier\source\repos\ConsoleApp2\PricerAPI\bin\Debug\netcoreapp2.1\PricerAPI.runtimeconfig.json
+C:\Users\segolene.fatier\source\repos\ConsoleApp2\PricerAPI\bin\Debug\netcoreapp2.1\PricerAPI.runtimeconfig.dev.json
+C:\Users\segolene.fatier\source\repos\ConsoleApp2\PricerAPI\bin\Debug\netcoreapp2.1\PricerAPI.dll
+C:\Users\segolene.fatier\source\repos\ConsoleApp2\PricerAPI\bin\Debug\netcoreapp2.1\PricerAPI.pdb
+C:\Users\segolene.fatier\source\repos\ConsoleApp2\PricerAPI\obj\Debug\netcoreapp2.1\PricerAPI.csprojAssemblyReference.cache
+C:\Users\segolene.fatier\source\repos\ConsoleApp2\PricerAPI\obj\Debug\netcoreapp2.1\PricerAPI.csproj.CoreCompileInputs.cache
+C:\Users\segolene.fatier\source\repos\ConsoleApp2\PricerAPI\obj\Debug\netcoreapp2.1\PricerAPI.RazorAssemblyInfo.cache
+C:\Users\segolene.fatier\source\repos\ConsoleApp2\PricerAPI\obj\Debug\netcoreapp2.1\PricerAPI.RazorAssemblyInfo.cs
+C:\Users\segolene.fatier\source\repos\ConsoleApp2\PricerAPI\obj\Debug\netcoreapp2.1\PricerAPI.AssemblyInfoInputs.cache
+C:\Users\segolene.fatier\source\repos\ConsoleApp2\PricerAPI\obj\Debug\netcoreapp2.1\PricerAPI.AssemblyInfo.cs
+C:\Users\segolene.fatier\source\repos\ConsoleApp2\PricerAPI\obj\Debug\netcoreapp2.1\PricerAPI.RazorTargetAssemblyInfo.cache
+C:\Users\segolene.fatier\source\repos\ConsoleApp2\PricerAPI\obj\Debug\netcoreapp2.1\PricerAPI.dll
+C:\Users\segolene.fatier\source\repos\ConsoleApp2\PricerAPI\obj\Debug\netcoreapp2.1\PricerAPI.pdb
